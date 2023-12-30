@@ -2,6 +2,7 @@
 Control your music with a wave of your fingers
 
 # How to Run
+Make a clone to local dir
 pip install
 Run
 
